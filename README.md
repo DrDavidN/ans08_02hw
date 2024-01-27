@@ -43,6 +43,16 @@
 
 ![image](https://github.com/DrDavidN/ans08_02hw/assets/128225763/ab1bf237-0fc0-48c6-af06-4a7170467202)
 
+6.
 
+![image](https://github.com/DrDavidN/ans08_02hw/assets/128225763/4320007c-d28c-4dad-a098-4b8042ef819e)
 
+7.
 
+![image](https://github.com/DrDavidN/ans08_02hw/assets/128225763/85a5dca9-b649-485b-9256-f4935e1f3699)
+
+8. playbook идемпотентен
+
+![image](https://github.com/DrDavidN/ans08_02hw/assets/128225763/0d94b686-3790-49e7-89cb-d52a85cada09)
+
+9. 
